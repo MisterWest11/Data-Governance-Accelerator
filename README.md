@@ -212,3 +212,8 @@ Effective communication is critical due to ongoing changes and requirements. Thi
 Change management is crucial to ensure impacted team members understand how the program affects them and their responsibilities.
 
 Collaboration is essential for success. Different stakeholders need to work together. A positive culture that rewards teamwork and clear communication channels (meetings, online platforms) are essential for effective collaboration.
+
+# Preparing for Data Governance
+
+**What is data culture**
+
