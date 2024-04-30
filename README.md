@@ -217,3 +217,12 @@ Collaboration is essential for success. Different stakeholders need to work toge
 
 **What is data culture**
 
+Data-driven decision making: Employees at all levels value data and use it to inform their decisions.
+
+Openness and transparency: There is an open exchange of data and information across the organization.
+
+Data literacy: Employees have the skills and knowledge to understand and work with data.
+
+Accountability for data quality: People are held accountable for the quality and accuracy of the data they create and use.
+
+Investment in data management: The organization invests in tools and technologies to manage data effectively.
