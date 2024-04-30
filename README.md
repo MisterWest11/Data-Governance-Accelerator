@@ -172,3 +172,43 @@ These are the most important qualities of a data governance framework:
 * *Policies, Processes, & Standards* - Developing and enforcing the policies, processes and standards for governing and managing data.
 
 * *Metric* - Measuring and reporting on the performance of data governance program and the broader outcomes of data management services.
+
+**Leadership & Strategy**
+
+Your data governance program must be aligned with the strategy of the organization. Data plays a role in many aspects of organizational strategy, including risk management, innovation and operational efficiencies. You must ensure these aspects and goals ahave a clear alignment of data governance.
+
+Alignment with organizational strategy is crucial - the program's goals shloud support how data is used to achieve the organization's broader goals(e.g. risk management, growth)
+
+Leadersip buy-in is essential - without support from senior leaders, the program is unlikely to succeed.
+
+**Roles & Responsibilities**
+
+Your data governance program will only be possible with the right people doing the right things at the right time. every data governance framework includes the identification and assignment of specific roles and responsibilities which range from the IT team to data stewards.
+
+Data relies on assigningthe right roles and responsibilities to ensure the program's success. These roles typically span various departments within an organization, including IT.
+
+**Policies, Processes and Standards**
+
+In data governance,policies, processes and standards help guide the responsibilities and support uniformity across the organization. Each of these must be designed, developed and deployed. Depending on the size and complecity of the organization this can take signficant effort.
+
+Policies, Processes and Standards: these are core elements that define responsibilities and ensure consistency across the organization. They need to be designed, developed and implemented. There must be clear mechanisms for holding people accountale and enforcing them.
+
+**Metrics**
+
+The program must have a mechanism to measure whether it is delivering the expected results. Capturing metrics and delivering them to a variety of stakeholders is important for maintaining support which includes funding. You'll want to know if your efforts are delivering on the promise program.
+
+Metrics are essential for measuring success and maintaining support: The program should have a way to track whether it's achieving its goals. This data is important for demonstrating the program's value to stakeholders and securing continued funding. Based on the metrics, you can make adjustments to the program to ensure it delivers the desired results.
+
+**Tools**
+
+Include tools for master data management, data catalogs, search, security, integration, analytics, and compliance.
+
+Data science related tools have become more user-friendly and automated in recent years. This makes data management more accessible and empowers more team members to effectively handle data and extract value from it.
+
+**Communications & Collaboration**
+
+Effective communication is critical due to ongoing changes and requirements. This can involve various methods like meetings, emails, newsletters, and workshops.
+
+Change management is crucial to ensure impacted team members understand how the program affects them and their responsibilities.
+
+Collaboration is essential for success. Different stakeholders need to work together. A positive culture that rewards teamwork and clear communication channels (meetings, online platforms) are essential for effective collaboration.
