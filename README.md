@@ -6,7 +6,7 @@ Data Governance is critical for businesses to manage their data effectively and 
 
 # Chapter 1: Defining Data Governance
 
-***Understanding Data Governance***
+# Understanding Data Governance***
 
 **What is meant by governance.**
 
@@ -36,7 +36,7 @@ Broadly, the discipline in which an organization acts in recognition of value of
 
 Governing and managing data well is a central enabler of EIM, which also includes using technologies and processes to elevate data to be a shared enterprise asset.
 
-**Data Governance vs Data Management**
+# Data Governance vs Data Management
 
 *Data Governance*
 
@@ -117,7 +117,7 @@ Without data governance, organizations struggle to achieve these benefits and ma
 
 Data governance is a conscious choice that requires investment. It's not something that happens automatically.
 
-**Creating a Data Governance Program**
+# Creating a Data Governance Program
 
 The basic steps for creating a data governance program consist of the following:
 
@@ -153,7 +153,7 @@ In summary, data governance is about managing data well and helping to deliver i
 ![image](https://github.com/MisterWest11/Data-Governance-Accelerator/assets/152319557/db39e6c2-5120-4fcb-93ae-53874d366929)
 
 
-**Developing a Data Governance Program**
+# Developing a Data Governance Framework
 
 data governance programs should be customized based on am organization's needs and reseources.
 
