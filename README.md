@@ -6,7 +6,7 @@ Data Governance is critical for businesses to manage their data effectively and 
 
 # Chapter 1: Defining Data Governance
 
-# Understanding Data Governance***
+# Understanding Data Governance
 
 **What is meant by governance.**
 
