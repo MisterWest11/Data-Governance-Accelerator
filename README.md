@@ -116,3 +116,59 @@ Benefits of data governance include: improved data quality, increased data value
 Without data governance, organizations struggle to achieve these benefits and may suffer negative consequences such as poor decision-making due to inaccurate data.
 
 Data governance is a conscious choice that requires investment. It's not something that happens automatically.
+
+**Creating a Data Governance Program**
+
+The basic steps for creating a data governance program consist of the following:
+
+ 1. defining the vision, goals, benefits.
+
+ 2. Analyzing the current state of data governane and management.
+
+ 3. Developing a proposal based on the first 2 steps, including a draft plan.
+
+ 4. Achieving leadership approval.
+
+ 5. Designing and developing the program.
+
+ 6. Implementng the program.
+
+ 7. Monitoring and measuring performance.
+
+ 8. Maintaining the program.
+
+
+Data governance is a process for managing data to get the most value out of it while minimizng the risks.
+
+Its becoming increasingly important as business rely more on data.
+
+Benefits of data governance include improved data quality, better decision-making and increased compliance.
+
+There is no one-size-fits-all approach to data governance, but there are common elements like data quality, security and availability.
+
+Data governance is a complex but important topic for organizations that want to get the most out of their data.
+
+In summary, data governance is about managing data well and helping to deliver its optimum value to your organization. It includes ensuring your data is available, usable, and secure. It’s the actions that team members take, the policies and processes they must follow, and the use of technologies that support them throughout the data lifecycle in their organization. It’s safe to say that for a growing number of organizations, data governance is becoming a very big deal.
+
+![image](https://github.com/MisterWest11/Data-Governance-Accelerator/assets/152319557/db39e6c2-5120-4fcb-93ae-53874d366929)
+
+
+**Developing a Data Governance Program**
+
+data governance programs should be customized based on am organization's needs and reseources.
+
+A well-designed data governance framework is essential for implementing a program.
+
+There are many data governance frameworks available, but they all share common components focusing on people, processes and technology.
+
+Know these common components and how to implement a basic data governance framework.
+
+These are the most important qualities of a data governance framework:
+
+* *Leadership and Strategy* - Ensuring senior leadership support and aligning data governance efforts with the vision, mission, and strategy of the organzation.
+
+* *Roles & Responsibilities* - Identifying and empowering the right team members with responsibilites for the data governance program and others with accountability for data.
+
+* *Policies, Processes, & Standards* - Developing and enforcing the policies, processes and standards for governing and managing data.
+
+* *Metric* - Measuring and reporting on the performance of data governance program and the broader outcomes of data management services.
