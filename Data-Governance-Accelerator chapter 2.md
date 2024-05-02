@@ -66,3 +66,30 @@ By 2020, the world had already created 64 zettabytes of data, and this amount is
 The term "datasphere" refers to all this data.To store one zettabyte, you'd need one billion terabyte drives.
 
 The passage also briefly explains bits and bytes, the building blocks of digital data. Zettabytes are even larger units, and we might need new terms like yottabyte and brontobyte in the future.
+
+![image](https://github.com/MisterWest11/Data-Governance-Accelerator/assets/152319557/a6c4c0ae-8b1b-4669-bdb2-8647f252ead7)
+
+![image](https://github.com/MisterWest11/Data-Governance-Accelerator/assets/152319557/04d2fff3-31e0-4716-b777-b7c2ec7f3772)
+
+Managing a small amount of data can have challenges, but managing data at scale is materially more challenging.
+
+**From Data to Insight**
+
+Creating, collecting and storing data is a waste of time and money if its being done without a clear purposes or intent to use it in the future. Certain exceptions may be logical to collect data even  when we dont have a reason because it may have value at some point in the future, but this is only an exception. Generally, an organization is onboarding because its required for some purpose.
+
+![image](https://github.com/MisterWest11/Data-Governance-Accelerator/assets/152319557/ce63fb83-15ae-402c-9c7f-f17611d29dcb)
+
+Data is raw, unprocessed elements.
+
+Information adds context to the data.
+
+Knowledge incorporates additional information and understanding.
+
+Wisdom applies reasoning and experience to knowledge, providing a deeper understanding.
+
+Insight uses wisdom to make a decision or take action.
+
+![image](https://github.com/MisterWest11/Data-Governance-Accelerator/assets/152319557/6d9e8cdd-6d4f-4e98-8c3f-917ee4c081c4)
+
+![image](https://github.com/MisterWest11/Data-Governance-Accelerator/assets/152319557/a1784074-85ce-460d-a788-aa20882c7280)
+
