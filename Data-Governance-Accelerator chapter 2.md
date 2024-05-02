@@ -40,3 +40,11 @@ Prior to proccessing, data doesn't need to make sense individually or even in co
   * Semi-structured: Data that contains additional information to enable the native format to be searched and analyzed.
 
 This basic action of data processing cannot be overstated, as it represents the core foundation of an industry that has ushered in our current period of rapid digital transformation. Today, the term data processing has been replaced with information technology (IT).
+
+**Welcome to The Zettabyte Era**
+
+A zettabyte is a unit of digitally storage that measures an incredibly large amount of data. 
+
+* Zettabyte Era: The rapid growth of data creation led to the use of zettabytes to quantify this massive data volume.
+
+* A Huge Number: One zettabyte is equal to 1021 bytes or a 1 followed by 21 zeros.
