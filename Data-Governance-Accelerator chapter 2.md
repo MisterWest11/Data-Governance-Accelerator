@@ -93,3 +93,32 @@ Insight uses wisdom to make a decision or take action.
 
 ![image](https://github.com/MisterWest11/Data-Governance-Accelerator/assets/152319557/a1784074-85ce-460d-a788-aa20882c7280)
 
+![image](https://github.com/MisterWest11/Data-Governance-Accelerator/assets/152319557/47c7ca8b-0da6-408b-b9cb-caf7a8d6de3a)
+
+every day, different organizations with access to the same data have different outcomes. While the best outcome can't be guaranteed no matter which processes, tools or skills are used, good practices such as the right level of data governance can absolutely lead to better results.
+
+**The Role of Data in the 21st Century**
+
+Historically, data has always been valuable for understanding the world, making informed decisions, and solving problems.
+
+Since the mid-20th century, the role of data has grown significantly due to:
+
+  * Increased quantity of data with the rise of computer systems.
+
+  * Improved data quality and wider accessibility, particularly after the internet's arrival in the mid-1990s.
+
+
+Today, we generate massive amounts of high-quality data that is transforming various aspects of our lives, including:
+
+  * Industries and cities (tools and capabilities)
+
+  * Learning
+
+  * Socializing
+
+  * Entertainment
+
+    
+The immense value of data also creates new risks, such as cyberattacks with potentially devastating consequences.
+
+The author argues that data might be the most valuable asset in the world, signifying a new era for data and its impact on our careers.
