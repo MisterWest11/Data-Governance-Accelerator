@@ -227,4 +227,43 @@ Accountability for data quality: People are held accountable for the quality and
 
 Investment in data management: The organization invests in tools and technologies to manage data effectively.
 
-The article argues that a strong data culture
+The article argues that a strong data culture is essential for the success of data-driven projects. Even well designed initiatives can fail if the organization does not have the right data culture in place. The author uses the example of data governance programs, which are unlikely to be successful in an organization with a weak data culture.
+
+Culture will always defeat the greatest of strategies almost every time. Imagine for a moment designing and deploying a data governance program for an organization that has little or no data culture. Intuitively this sounds like a disaster in the making. To be fair, every oorganization has some form of a data culture, it just might not be in an ideal state.
+
+
+**Assessing the Data Culture**
+
+*Data Culture*: this is how an organization values, manages and uses data. Companies with a mature data culture see data as central to decision-making and empower employees to leverage it.
+
+*Effective data culture*: allows employees to access and use data for better decision-making. Decisions are not based on intuition or hierarchy, but on data insights.
+
+*Leaders play a crucial role*: in fostering a data culture by acknowledging its importance and taking actions to promote data usage.
+
+*Trust in data*: Employees need to trust the quality, origin and value of data to make data-driven decision.
+
+*Assessing data culture maturity*: involves interviewing leaders and employees, observing decision-making processes and evaluating data governance practices.
+
+*Data governance implementation*: can contribute to building a strong data culture.
+
+**Maturing The Data Culture**
+
+* Help leaders communicate the value of data and model the type of behaviour that demonstrates that data is a priority. This must include communicating the positive results of using data.
+
+* Provide the basic tools and education for data use that include manipulating data, analytics, data cleansing, basic query commands, and visualization. Do not overlook the remarkable capabilities of common applications such as spreadsheets.
+
+* Do something, even if its small, to show progress. A successful data culture does not begin with the deployment of complex, far-reaching solutions. Rather, it can be eased into the organization via basic data-management skills offered in a classroom setting or online.
+
+* Recognize that resistance and frustration are part of the journey. Rather than fighting it, find ways to bring comfort and rewards to team members. At a minimum, provide a channel for feedback and positive discussion.
+
+**Assessing Data Governance Readiness**
+
+Launching a data governance program requires careful preparation to maximize its success rate. 
+
+Organizations might not get second chance if the inital implementation fails.
+
+The following basic checklist of items that will help determine the data governance readiness of your organization:
+
+1. The basis of data culture exists.
+
+2. 
