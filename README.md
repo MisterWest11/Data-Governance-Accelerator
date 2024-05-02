@@ -226,3 +226,5 @@ Data literacy: Employees have the skills and knowledge to understand and work wi
 Accountability for data quality: People are held accountable for the quality and accuracy of the data they create and use.
 
 Investment in data management: The organization invests in tools and technologies to manage data effectively.
+
+The article argues that a strong data culture
