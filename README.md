@@ -266,4 +266,22 @@ The following basic checklist of items that will help determine the data governa
 
 1. The basis of data culture exists.
 
-2. 
+2. The program is 100% aligned with business strategy.
+
+3. Senior Leadership is 100% committed to the program and its goals.
+
+4. Senior leadership understands this is a strategic, enterprise program and not the sole responsibility of the IT department.
+
+5. One or more sponsors have been identified at an executive level.
+
+6. The program has the commitment to fund its creation and to maintain it in the long term.
+
+7. The organization understands this is an ongoing program and not a one-off project.
+
+8. You have documented the return-on-investment(ROI).
+
+9. Legal and compliance teams(internally & externally) understand and support the goals of the program.
+
+10. Fundamental data skills exist for the data governance journey.
+
+11. The IT organization is capable and resourced to support the program.
