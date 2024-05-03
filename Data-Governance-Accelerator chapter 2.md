@@ -41,7 +41,7 @@ Prior to proccessing, data doesn't need to make sense individually or even in co
 
 This basic action of data processing cannot be overstated, as it represents the core foundation of an industry that has ushered in our current period of rapid digital transformation. Today, the term data processing has been replaced with information technology (IT).
 
-**Welcome to The Zettabyte Era**
+# Welcome to The Zettabyte Era
 
 A zettabyte is a unit of digitally storage that measures an incredibly large amount of data. 
 
@@ -73,7 +73,7 @@ The passage also briefly explains bits and bytes, the building blocks of digital
 
 Managing a small amount of data can have challenges, but managing data at scale is materially more challenging.
 
-**From Data to Insight**
+# From Data to Insight
 
 Creating, collecting and storing data is a waste of time and money if its being done without a clear purposes or intent to use it in the future. Certain exceptions may be logical to collect data even  when we dont have a reason because it may have value at some point in the future, but this is only an exception. Generally, an organization is onboarding because its required for some purpose.
 
@@ -97,7 +97,7 @@ Insight uses wisdom to make a decision or take action.
 
 every day, different organizations with access to the same data have different outcomes. While the best outcome can't be guaranteed no matter which processes, tools or skills are used, good practices such as the right level of data governance can absolutely lead to better results.
 
-**The Role of Data in the 21st Century**
+# The Role of Data in the 21st Century
 
 Historically, data has always been valuable for understanding the world, making informed decisions, and solving problems.
 
@@ -123,7 +123,7 @@ The immense value of data also creates new risks, such as cyberattacks with pote
 
 The author argues that data might be the most valuable asset in the world, signifying a new era for data and its impact on our careers.
 
-**Data-Driven Decision-Making**
+# Data-Driven Decision-Making
 
 Data empowers better decision-making. Reading online reviews is a simple example of this concept in action.
 
@@ -133,7 +133,7 @@ Good quality data is crucial for effective decision-making. Using bad data can l
 
 The abundance of data we have today is a feature of the 21st century, but ensuring data quality requires specific actions and data governance plays a central role in achieving this.
 
-**Data as The New Oil**
+# Data as The New Oil
 
 * Data is like oil in the sense that it fuels the digital economies of the 21st century, just as oil powered industrial economies in the past.
 
@@ -147,7 +147,7 @@ The abundance of data we have today is a feature of the 21st century, but ensuri
 
 * The passage concludes by mentioning potential risks associated with a few big players controlling personal data.
 
-**Data Ownership**
+# Data Ownership
 
 Data ownership refers to the rights and control a person, team, or organization has over specific data sets. This control can range from basic oversight to strict legal regulations. Here's a breakdown of the concept:
 
@@ -157,7 +157,7 @@ Spectrum of Control: The level of control can vary. Data ownership might involve
 
 Example: Data related to intellectual property (copyrights, trade secrets) will likely have strong ownership controls, including limitations on who can access it and how it can be used.
 
-**Data Architecture**
+# Data Architecture
 
 When designing the techincal needs of an organization to support its business strategy, this practice is known as Enterprise Architecture(EA). Using standards and established principles, organizations can analyze, design, plan and implement the right technology, policies and projects to support business goals.
 
@@ -188,4 +188,17 @@ At a minimum, data architecture considers and typically supports:
 Data architecture is a direct reflection of data governance. An established and functioning data architecture immediately signals that an organization values data, manages it as a critical business asset and has controls in place to ensure that it aligns with business needs. Data architecture is not exclusive realm of technologists but a cross-organizational responsibility. In most medium to large organizations, data must effeciently flow across business silos, such as sales and product development and serve many different audiences in multiple forms.
 
 
-**The Lifecycle of Data**
+# The Lifecycle of Data
+
+![image](https://github.com/MisterWest11/Data-Governance-Accelerator/assets/152319557/279f241f-aa5e-4a54-a053-bb9008fb1870)
+
+
+1. *Creation*: This is the stage at which data comes into being. It may be manual or automated and get created internally or externally. Data is created all the time by a vast number of activities that include system inputs and outputs.
+
+2. *Storage*: Once data is created and assuming you want it available for later use, it must be stored. It most likely will be contained and managed in a database. The database needs a home, too as a local hard drive, server or cloud services.
+
+3. *Usage*: Hopefully you're capturing and storing data because you want to use it. Maybe not immediately, but at some point, perhaps for analysis. Data may need to be processed to be useful. That could include cleansing it of errors, transforming it to another format and securing access rights.
+
+4. *Archival*: In this stage, you identify data that is not currently being used and moved it to a long-term storage system out of your production environment. If it's needed at some point in the future, it can be retrieved and utilized it.
+
+5. *Destruction*: Despite a desire by some to keep everything forever, there is a logical point where destruction makes sense or is required by regulation or policy. Data destruction involves making data inaccessible and unreadable. It can include the physical destruction of a device such as a hard drive.
