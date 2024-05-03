@@ -156,3 +156,36 @@ Accountability: Similar to assigning responsibility in projects, data ownership 
 Spectrum of Control: The level of control can vary. Data ownership might involve basic oversight or enforce strict rules regarding data access and usage.
 
 Example: Data related to intellectual property (copyrights, trade secrets) will likely have strong ownership controls, including limitations on who can access it and how it can be used.
+
+**Data Architecture**
+
+When designing the techincal needs of an organization to support its business strategy, this practice is known as Enterprise Architecture(EA). Using standards and established principles, organizations can analyze, design, plan and implement the right technology, policies and projects to support business goals.
+
+A subset EA is a data architecture. In the same manner, which you can consider the holistic nature of EA in support of the organizations's strategy, data architecture is the manner in which data design and management decisions are being made to align with EA and in turn, with the business. Simplified, data architecture is the agreed blueprint for how data supports an organizations's functions and technologies.
+
+*Every organization is a technology business*: in today's digital age, businesses rely heavily on technology to function effectively.
+
+*Enterprise Architecture (EA)*: This practice involves designing the technical needs of an organization to supprt its overall business strategy. Think of it as a comprehensive roadmap for IT systems and infrastructure.
+
+*Data Architecture as a subset of EA*: Data architecture focuses specifically on how data is designed, managed and aligned with the broader EA and business goals. It's essentially the blueprint for how data is used to support the organization's functions and technologies.
+
+*Benefits of strong Data Architecture*: When combined with a high-quality EA, a well-defined data architecture fosters smoother operations and facilitates adaptation to changing internal or market conditions.
+
+*Drawbacks of poor Data Architecture*: The absence or poor implementation of data architecture can hinder digital transformation efforts, lead to increased complexity, and raise the risk of failure.
+
+At a minimum, data architecture considers and typically supports:
+
+  * Ensuring data is available to those who need it and are approved to use it.
+
+  * Reducing the complexity of accessing and utilizing data.
+
+  * Creating and enforcing data protections to support organizational policies and obligations.
+
+  * Adopting and agreeing to data standards.
+
+  * Optimizing the flow and efficient use of data to eliminate bottlenecks and duplication.
+
+Data architecture is a direct reflection of data governance. An established and functioning data architecture immediately signals that an organization values data, manages it as a critical business asset and has controls in place to ensure that it aligns with business needs. Data architecture is not exclusive realm of technologists but a cross-organizational responsibility. In most medium to large organizations, data must effeciently flow across business silos, such as sales and product development and serve many different audiences in multiple forms.
+
+
+**The Lifecycle of Data**
