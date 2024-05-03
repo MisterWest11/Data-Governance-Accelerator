@@ -218,3 +218,76 @@ Data architecture is a direct reflection of data governance. An established and 
   * Computing: More powerful computers were needed for complex calculations and simulations.
  
   * Telecommunications: Improved communication was crucial for space missions and international collaboration.
+
+
+The U.S. Census and the Need for Data Processing: The slow and laborious task of manually processing the 1880 census data (taking nearly eight years!) highlighted the need for a faster and more efficient method. This is considered a driving force behind the birth of data processing.
+
+The Tabulating Machine Company: Founded in 1896, this company addressed the census challenge by developing a system that used punched cards to represent data. These cards could be "read" by a machine to automate tabulation.
+
+Punched Cards and Early Data Storage: The punched card system can be seen as an early form of data storage. Holes in the cards represented specific data points, allowing the machine to process information efficiently.
+
+The Tabulating Machine Company Becomes IBM: This company, later renamed International Business Machines (IBM), became a pioneer in data processing technology.
+
+Data Processing Spreads: IBM's innovations and advancements in data processing technology infiltrated various aspects of life, including offices, military, academia, and factories, leading to increased automation.
+
+The Information Age and Big Data: These developments paved the way for the Information Age, where data became the new "raw material" for productivity and innovation. Connectivity facilitated the flow of information across devices and locations.
+
+The Rise of Big Data: With the exponential growth of data creation and storage, traditional methods struggled to manage it. This phenomenon led to the coining of the term "Big Data" to describe the vast and complex nature of data in the modern era.
+
+In essence, the U.S. Census data processing challenge sparked innovations that revolutionized data management and fueled the Information Age and the emergence of Big Data.
+
+# Defining Big Data
+
+Big data is structured and unstructured data that is so massive and complex in scale, that it's difficult and often impossible to process via traditional data management techniques.
+
+One way to define and characterize big data is through these 5 V's:
+
+ * *Volume*: The sheer scale of data being produced is unprecedented and requires new tools, skills, and processes.
+
+ * *Variety*: There are already a lot of legacy file formats, such as CSV & MP3 and new innovations, new formats are emerging all the time. This requires different methods of handling from analysis to security.
+
+ * *Velocity*: With so many collection points, digital interfaces and ubiquitous connectivity, data is being created and moved at increasing speed. Consider that in 2021, Instagram users created, uploaded and share 65 000 pictures a minute.
+
+ * *Variability*: The fact that the creation and flow of data are unpredictable.
+
+ * *Veracity*: The quality, including accuracy and truthfulness, large volume of disparate sets of data, can differ considerably, causing challenges to data management.
+
+**Drivers of Big Data**
+
+ * Early Signs of Big Data: Even before the explosion of smartphones, apps, and the Internet of Things, Big Data was already a growing concern. This emphasizes that the roots of Big Data lie deeper than just recent technological advancements.
+
+ * The Cambrian Explosion Analogy: The passage uses the term "Cambrian explosion" to describe the rapid surge in data volume. This analogy refers to a period in Earth's history marked by the sudden diversification of life forms.
+
+ * Growth in Data Volume: The data volume has been steadily increasing, reaching the zettabyte range(a vast amount of data) by the third decade of the 21st century.
+
+ * Predictions for Continued Growth: The passage predicts a continuous rise in data generation, with estimates reaching 180 zettabytes by 2025.
+
+ * Shifting Perspective: The passage highlights how our perception of data volume changes over time. Just as 32GB of storage seemed like a lot in 2015, future generations might find today's zettabyte figures insignificant due to the ever-increasing data deluge.
+
+![image](https://github.com/MisterWest11/Data-Governance-Accelerator/assets/152319557/872aec76-35ca-4e1f-943b-ade2e113b386)
+
+**Consequences of Big Data**
+
+Data Quality: A significant portion (up to 80%) of Big Data is unstructured, making it difficult to analyze and utilize. Many organizations struggle with effectively managing unstructured data.
+
+Data Duplication and Errors: Data redundancy and inaccuracies can be prevalent within Big Data sets, requiring additional effort for cleaning and processing.
+
+Accessibility Issues: Big Data may not be readily accessible due to various factors, hindering its potential value.
+
+Opportunities of Big Data:
+
+Value Creation: Despite the challenges, Big Data offers immense value for organizations across various sectors.
+
+Innovation Driver: Big Data is a catalyst for innovation, driving advancements in areas like self-driving cars and supply chain optimization.
+
+Enhanced Marketing: Big Data, combined with hyperconnectivity, empowers marketers to gain granular insights into the market and target specific audiences for maximized results.
+
+**What about Small Data**
+
+Small Data's Value: Contrary to the emphasis on Big Data, small amounts of data can still be valuable and insightful.
+
+Small Data in Everyday Operations: Spreadsheets, surveys, and personal to-do lists are all examples of small data that play a crucial role in day-to-day decisions and business activities.
+
+Small Data and Big Questions: Even significant issues can be addressed through analysis of small data sets.
+
+Small Data - A Part of Big Data: Big Data often gains meaning and usability when broken down into smaller, more manageable chunks. In essence, small data can be seen as a building block for understanding Big Data.
