@@ -11,7 +11,7 @@ In this chapter, we will be:
    * Exploring four approaches to data analytics.
 
 
-# Identofying roles of data.
+# Identifying roles of data.
 
 Data's Ubiquity: Data is present and utilized across various functions within an organization, not limited to specific departments like data analytics or IT.
 
