@@ -202,3 +202,19 @@ Data architecture is a direct reflection of data governance. An established and 
 4. *Archival*: In this stage, you identify data that is not currently being used and moved it to a long-term storage system out of your production environment. If it's needed at some point in the future, it can be retrieved and utilized it.
 
 5. *Destruction*: Despite a desire by some to keep everything forever, there is a logical point where destruction makes sense or is required by regulation or policy. Data destruction involves making data inaccessible and unreadable. It can include the physical destruction of a device such as a hard drive.
+
+# Understanding the Impact of Big Data
+
+* Data: Not a New Concept: The concept of data collection and storage has existed for millennia. Examples include Roman ledgers used for record-keeping.
+
+* The Cold War and Technological Advancements: The Cold War, a period of geopolitical tension between the US and USSR, fueled significant advancements in technology, including:
+
+  * Microprocessors: These tiny chips became the backbone of modern computers.
+    
+  * Classical Computing: The foundation for the computers we use today.
+ 
+* Space Race as a Catalyst: The competition between the US and USSR to reach space further accelerated innovation in:
+
+  * Computing: More powerful computers were needed for complex calculations and simulations.
+ 
+  * Telecommunications: Improved communication was crucial for space missions and international collaboration.
