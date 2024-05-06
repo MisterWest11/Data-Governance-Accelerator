@@ -291,23 +291,23 @@ The following basic checklist of items that will help determine the data governa
 
 Key Concepts
 
-Data as an Asset: Treat data as a valuable resource like any other financial or physical asset within the organization.
+**Data as an Asset**: Treat data as a valuable resource like any other financial or physical asset within the organization.
 
-Data Governance: The methods and practices for managing data to get the most value out of it while minimizing risks.
+**Data Governance**: The methods and practices for managing data to get the most value out of it while minimizing risks.
 
-Data Governance vs. Data Management:
+**Data Governance vs. Data Management**:
 
-* Data Governance: Defines "what" & "why" of data handling (policies, roles, responsibilities). Sets the direction.
+* **Data Governance**: Defines "what" & "why" of data handling (policies, roles, responsibilities). Sets the direction.
 
-* Data Management: Implements the "how" of data handling (technical aspects like databases, security). Executes the plan.
+* **Data Management**: Implements the "how" of data handling (technical aspects like databases, security). Executes the plan.
 
-Data Governance vs. Information Governance:
+**Data Governance vs. Information Governance**:
 
-  * Data Governance: Deals with data itself, independent of its meaning (e.g., securing patient data).
+  * **Data Governance**: Deals with data itself, independent of its meaning (e.g., securing patient data).
     
-  * Information Governance: Concerned with the meaning of data and its context (e.g., understanding how patient data relates to staff data).
+  * **Information Governance**: Concerned with the meaning of data and its context (e.g., understanding how patient data relates to staff data).
 
-Benefits of Data Governance:
+**Benefits of Data Governance**:
 
 Improved data quality
 
@@ -321,7 +321,7 @@ Increased data sharing and use
 
 Reduced risks from data-related issues
 
-Creating a Data Governance Program
+**Creating a Data Governance Program**
 
 Define vision, goals, and benefits.
 
@@ -339,7 +339,7 @@ Monitor and measure performance.
 
 Maintain the program.
 
-Developing a Data Governance Framework
+**Developing a Data Governance Framework**
 
 * A well-designed framework is essential for implementing a program.
 
@@ -358,7 +358,7 @@ Developing a Data Governance Framework
   * Communications & Collaboration: Ensuring clear communication and teamwork.
  
     
-Preparing for Data Governance
+**Preparing for Data Governance**
 
 * Data Culture: How an organization values, manages, and uses data.
 
@@ -370,7 +370,7 @@ Key aspects include data-driven decision making, openness, data literacy, and ac
 * Maturing the Data Culture: Promote data usage through leadership actions, education, and recognition.
 
   
-Assessing Data Governance Readiness
+**Assessing Data Governance Readiness**
 
 * Launching a program requires careful preparation.
 
